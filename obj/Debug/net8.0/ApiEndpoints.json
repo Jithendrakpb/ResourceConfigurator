@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "ResourceConfigurator.Controllers.ResourceController",
+    "Method": "GetAsync",
+    "RelativePath": "api/Resource",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subscriptionId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "resourceGroupName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
